@@ -1,0 +1,32 @@
+{
+  "name": "MONTAP",
+  "version": "0.1.0",
+  "summary": "This is MONTAP.",
+  "description": "This is MONTAP networking abstraction layer on Alamofire.",
+  "homepage": "https://github.com/yuvirajsinh/MONTAP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yuvrajsinh Jadeja": "yuviraj.jadeja@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yuvirajsinh/MONTAP.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "4.2",
+  "source_files": "MONTAP/Source/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.7.2"
+    ],
+    "AlamofireObjectMapper": [
+
+    ]
+  },
+  "swift_version": "4.2"
+}

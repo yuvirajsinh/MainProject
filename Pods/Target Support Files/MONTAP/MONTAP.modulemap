@@ -1,0 +1,6 @@
+framework module MONTAP {
+  umbrella header "MONTAP-umbrella.h"
+
+  export *
+  module * { export * }
+}
